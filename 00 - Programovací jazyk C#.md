@@ -30,3 +30,8 @@ Zvolíme nejnovější rozhraní .NET Frameworku (nyní 8.0) a zaškrtneme *"Nep
 
 <img width="1915" height="1032" alt="IDE" src="https://github.com/user-attachments/assets/6511c790-0256-4292-b992-b9117f370c1f" />
 
+   - červená = Toolbar a menu
+   - žlutá = Tlačítko na spuštění kódu :arrow_forward: 
+   - bílá = Název aktuální souboru
+   - zelená = Editor kódu: hlavní část, do které píšeme kód
+   - modrá = Průzkumník řešení: zobrazuje strukturu projektu, při vytvoření automaticky *"Program.cs"*
