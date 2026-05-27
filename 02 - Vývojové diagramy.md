@@ -27,7 +27,7 @@ Podmínka (větvení) může být
   - úplné = mají se vykonat obě možnosti (ANO i NE)
   - neúplné = vykoná se pouze jedna možnost
     
-U větvení se používá znak **+** a **-** (neboli ANOI/NE)
+U větvení se používá znak **+** a **-** (neboli ANO/NE)
 
 <img width="533" height="634" alt="Vývojový diagram" src="https://github.com/user-attachments/assets/9d356a61-2417-494f-bb1b-1cba176f5635" />
 <img width="467" height="719" alt="pALAČINKA" src="https://github.com/user-attachments/assets/ef521459-c7d5-4580-8bab-96cd3c9c7ca9" />
