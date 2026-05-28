@@ -25,4 +25,9 @@ Nyní můžeme kód spustit pomocí tlačítka :arrow_forward: nebo pomocí funk
 V konzoli se vypsalo *"Hello, World!"*.Pod textem je cesta k souboru a ladící hláška z Visual Studia.   
 Právě jste si spustili Váš první kód! :computer:
 
-
+#### :placard: Console.WriteLine("Hello, World!"); ####
+*Console* je třída reprezentující okno konzole.    
+*Tečka* znázorňuje přístup k tomu, co je uvnitř třídy.   
+*WriteLine* je metoda pro vypsání textu se zalomením řádku.
+*("Hello, World!")* je argument > vypíše se text v závorkách.
+*;* (středník) ukončí příkaz.
