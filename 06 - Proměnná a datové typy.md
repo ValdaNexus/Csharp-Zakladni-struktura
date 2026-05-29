@@ -16,12 +16,12 @@ K deklaraci proměnné potřebujeme název proměnné a datový typ.
 
 ### Celočíselné typy
 <img width="1025" height="507" alt="datové typy" src="https://github.com/user-attachments/assets/c15b153e-73e2-44ec-9435-b1530e71c529" />
-Nejpoužívanější: **int**   
+Nejpoužívanější:**int**  
 
 ### Desetinná čísla
-<img width="940" height="167" alt="desetinná čísla" src="https://github.com/user-attachments/assets/344ed404-6693-4bc1-aecb-6d8a306fdfe2" />
+<img width="940" height="167" alt="desetinná čísla" src="https://github.com/user-attachments/assets/344ed404-6693-4bc1-aecb-6d8a306fdfe2" />  
 ```
-double > běžné výpočty (matematika, fyzika)   
-float > málo místa v paměti (hry, grafika)   
-decimal > peníze (vysoká přesnost)   
+double > běžné výpočty (matematika, fyzika)      
+float > málo místa v paměti (hry, grafika)     
+decimal > peníze (vysoká přesnost)     
 ```
