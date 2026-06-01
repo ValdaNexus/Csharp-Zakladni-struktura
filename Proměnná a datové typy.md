@@ -20,7 +20,8 @@ Nejpoužívanější: **int**
 
 ### Desetinná čísla
 
-![img](https://private-user-images.githubusercontent.com/288233596/599908160-344ed404-6693-4bc1-aecb-6d8a306fdfe2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODAwMzc3MzgsIm5iZiI6MTc4MDAzNzQzOCwicGF0aCI6Ii8yODgyMzM1OTYvNTk5OTA4MTYwLTM0NGVkNDA0LTY2OTMtNGJjMS1hZWNiLTZkOGEzMDZmZGZlMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyOVQwNjUwMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYjdjOTliZDc4ZjBiMGNlNDA4MDUxODE3ODdmYTdlMjJiZmE0YTEyMGFlNGZmNGI5MDg2YTBjZDZmMDI2MTNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.QbTau9rt4v2bZfyp_nXXIKgNsNNlPK7DtFL5rhgmAtM)
+<img width="940" height="167" alt="desetinná čísla" src="https://github.com/user-attachments/assets/344ed404-6693-4bc1-aecb-6d8a306fdfe2" />   
+   
 ```
 double > běžné výpočty (matematika, fyzika)      
 float > málo místa v paměti (hry, grafika)     
