@@ -1,3 +1,4 @@
+# Vývojový diagram
 Způsob, jak graficky znázornit algoritmus – tedy postup řešení problému.
 Používají se šipky a symboly, které ukazují, jak programo postupuje.
 
