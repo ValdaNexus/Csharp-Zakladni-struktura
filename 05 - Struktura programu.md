@@ -1,4 +1,4 @@
-# Systaxe v C#  
+# Syntaxe v C#  
 ### Jak funguje program po spuštění?
   1. Spustí se kompilátor, který si kód přeloží 
   2. Spustí se metoda **Main()**
