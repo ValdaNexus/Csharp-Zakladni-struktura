@@ -1,3 +1,4 @@
+# První program
 Po vytvoření projektu se nám zobrazí v editoru kódu automaticky vygenerovaný zdrojový kód. To je způsobeno zaškrtnutím *"Použít příkazy nejvyšší úrovně"* v rámci vytváření projektu.
 Pro uživatele je to v úvodu programování výhodné, neboť vygenerované části jsou obtížné na pochopení. Tomu se budeme věnovat později, nicméně si prvky jednoduše vysvětlíme.   
 
