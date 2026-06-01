@@ -1,4 +1,4 @@
-## Proměnná
+# Proměnná
 Proměnná je místo v paměti, do kterého mohu ukládat jakoukoliv hodnotu (např. jméno, věk, hodnotu Pí aj).  
 V C# má proměnná vždy určený datový typ, zálěží jakou hodnotu budeme do proměnné ukládat. Hodnotu v proměnné lze měnit.
 Vytvoření proměnné se v programování říká **DEKLARACE**.
