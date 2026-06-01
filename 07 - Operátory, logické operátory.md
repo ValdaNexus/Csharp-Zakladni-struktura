@@ -1,11 +1,13 @@
 # Základní operátory
+Základní symboly pro jednotlivé operace.
 ### Aritmetické   
   -  \+ \- \* /
   -  %(modulo) zbytek po celočíselném dělení\
-int x = 10;\
-int y = 3;\
-int z = x % y;   
-z = 1;
+  -  příklad:\
+    int x = 10;\
+    int y = 3;\
+    int z = x % y;   
+    z = 1;
 
 ### Logické (boolenovské)
 Výstupem logických operátorů je hodnota TRUE nebo hodnota FALSE\
