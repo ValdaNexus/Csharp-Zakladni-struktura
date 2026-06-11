@@ -5,7 +5,7 @@ Několik možností použití
 
 ### :computer: Formátování čísel (Zaokrouhlení / počet desetinných míst)
 ```
-</>C#
+</>csharp
 double cislo = 12.34567;
 
 Console.WriteLine($"{cislo:F2}");  // F znamená "Fixed" 
@@ -14,7 +14,7 @@ Výsledek: 12,35
 
 ### :computer: Formátování pomocí kompozitního zápisu
 ```
-</>C#
+</>csharp
 double cislo = 12.34567;
 
 Console.WriteLine("{0:F2}", cislo);
@@ -23,7 +23,7 @@ Výsledek: 12,35
 
 ### :computer: Formátování v interpolaci (nejčastější)
 ```
-</>C#
+</>csharp
 int cena = 1500;
 
 Console.WriteLine($"Cena je {cena:N0} Kč");  // N je číslo s oddělovači tisíců, 0 znázorňuje žádná desetinná místa
@@ -32,12 +32,12 @@ Výsledek: 1 500 Kč
 
 ### :computer: Zarovnání textu doprava
 ```
-</>C#
+</>csharp
 Console.WriteLine($"{ "Ahoj",10}");  // 10 je šířka sloupce
 ```
 
 ### :computer: Zarovnání textu doleva
 ```
-</>C#
+</>csharp
 Console.WriteLine($"{ "Ahoj",-10}");  
 ```
