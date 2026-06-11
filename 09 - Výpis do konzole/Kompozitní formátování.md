@@ -7,13 +7,13 @@ Používá metodu string.Format() nebo Console.WriteLine() se speciálním zápi
   - nebo když se používá string.Format()   
 například: 
 ```
-</>C#
+</>csharp
 string text = string.Format("Ahoj {0}", jmeno);
 ```
 
 ### 💻Základní příklad
 ```
-</>C#
+</>csharp
 string jmeno = "Jan";
 int vek = 20;
 
@@ -23,7 +23,7 @@ Výsledek: Jmenuji se Jan a je mi 20 let.
 
 ### 💻Další příklad
 ```
-</>C#
+</>csharp
 string mesto = "Praha";
 int pocet = 1200000;
 
