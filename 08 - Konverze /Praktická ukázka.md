@@ -28,7 +28,17 @@ Console.WriteLine("Zadal jsi: " + prvniCislo + " a " + druheCislo);
 
 ```
 </>C#
+Console.WriteLine("Zadej číslo:");
+string vstup = Console.ReadLine();
 
+if (int.TryParse(vstup, out int cislo))    // Pokud uživatel nezadá číslo, spustí se kód else
+{
+  Console.WriteLine("Úspěch! Zadali jste číslo: " + cislo);
+}
+else
+{
+  Console.WriteLine("Tohle není platné číslo.");
+}
 ```
 
 ## Další možnosti 
