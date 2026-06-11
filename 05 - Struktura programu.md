@@ -28,7 +28,7 @@ Pro hromadné odkomentování se používá zkratka **CTRL + K + U** (U > uncomm
 Potřebný text je potřeba mít označený.
 
 ### :top: Best practices:
-  - Smusluplné názvy
+  - Smysluplné názvy
   - PascalCase pro třídy a metody
   - camelCase pro proměnné
   - Přehlednost kódu
