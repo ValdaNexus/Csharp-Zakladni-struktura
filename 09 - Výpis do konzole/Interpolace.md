@@ -3,7 +3,7 @@ Interpolace řetězců je způsob, jak vkládat proměnné přímo do textu pomo
 
 ### 💻Základní příklad
 ```
-</>C#
+</>csharp
 string jmeno = "Jan";
 int vek = 20;
 
@@ -13,7 +13,7 @@ Výsledek: Jmenuji se Jan a je mi 20 let.
 
 ### 💻Součet čísel
 ```
-</>C#
+</>csharp
 int a = 5;
 int b = 3;
 
