@@ -4,7 +4,7 @@ Operátor + u stringů znamená: „vezmi dva texty a spoj je dohromady“.
 
 ## :computer: Základní příklad
 ```
-</>C#
+</>csharp
 string jmeno = "Jan";
 string prijmeni = "Novák";
 
@@ -16,7 +16,7 @@ Výsledek : *Jan Novák*
 
 ## :computer: Konkatenace s čísly
 ```
-</>C#
+</>csharp
 int vek = 20;
 
 Console.WriteLine("Věk je " + vek + " let.");
@@ -25,7 +25,7 @@ Výsledek : *Věk je 20 let.*
 
 ## :warning: POZOR
 ```
-</>C#
+</>csharp
 string prvniCislo = "15";
 string druheCislo = "20";
 
