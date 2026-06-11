@@ -30,3 +30,17 @@ Console.WriteLine("Zadal jsi: " + prvniCislo + " a " + druheCislo);
 </>C#
 
 ```
+
+## Další možnosti 
+
+```
+</>C#
+double x1 = Convert.ToDouble(Console.ReadLine());
+double x2 = double.Parse(Console.ReadLine());
+float y = float.Parse(Console.ReadLine());
+byte a = byte.Parse("200");
+long b = long.Parse("1234567890123");
+float f = float.Parse("3.14");
+double d = double.Parse("3.1415926");
+decimal m = decimal.Parse("19.99");
+```
